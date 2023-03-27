@@ -21,7 +21,7 @@ The results of the study show that conducting analysis in crowded scenes can be 
 <img src="https://github.com/lorenzlorg/MSc-Thesis/blob/main/images/tracks_img_new.png"  width="600" height="340">
 </p>
 
-[Thesis](https://github.com/lorenzlorg/MSc-Thesis/blob/main/Lorgna__Lorenzo%20_Tesi_LMDS_24_03_2023.pdf)
-[Slides](https://github.com/lorenzlorg/MSc-Thesis/blob/main/Lorgna__Lorenzo%20_Presentazione_LMDS_24_03_2023.pdf)
-[Notebooks](https://github.com/lorenzlorg/MSc-Thesis/blob/main/Lorgna__Lorenzo%20_Presentazione_LMDS_24_03_2023.pdf)
+[Thesis](https://github.com/lorenzlorg/MSc-Thesis/blob/main/Lorgna__Lorenzo%20_Tesi_LMDS_24_03_2023.pdf)  
+[Slides](https://github.com/lorenzlorg/MSc-Thesis/blob/main/Lorgna__Lorenzo%20_Presentazione_LMDS_24_03_2023.pdf)  
+[Notebooks](https://github.com/lorenzlorg/MSc-Thesis/tree/main/notebooks)  
 
